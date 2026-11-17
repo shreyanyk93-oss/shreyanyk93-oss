@@ -1,4 +1,6 @@
-## Hi there 👋
+THIS IS MY FIRST GIT REPOSITORY
+<BR />
+Author - Shreya S Nayak
 
 <!--
 **shreyanyk93-oss/shreyanyk93-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
